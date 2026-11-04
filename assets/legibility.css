@@ -1,0 +1,35 @@
+/* Readability refinements; the approved page structure and columns stay intact. */
+html{-webkit-text-size-adjust:100%;text-size-adjust:100%}
+.hero-copy>p{font-size:17px;line-height:1.85}
+.section-head>p,.method-copy>p,.contact-content>p{font-size:16px;line-height:1.85}
+.cap-panel>p,.audience-summary>p{font-size:15px;line-height:1.85}
+.deliverables li,.engagement p,.lens p,.lead .bio,.cadence-step p{font-size:13px;line-height:1.85}
+.advisor .bio,.audience-buyers,.independence p,.cadence-header p,.footer-top p{font-size:12px;line-height:1.8}
+.eyebrow,.section-label,.engagement>span,.lens>span,.cadence-step h4{font-size:11px;line-height:1.7}
+.engagement h4,.independence b{font-size:14px;line-height:1.65}
+.text-link{font-size:13px}.button{font-size:13px}.proof-strip p{font-size:12px}.proof-strip span{font-size:13px}
+.lead .role,.advisor .role{font-size:12px;line-height:1.75}.footer-meta{font-size:10px}
+.space-workbench-nav p{font-size:14px;line-height:1.8}.space-workbench-nav p b{font-size:18px}.space-branch{font-size:12px}.space-branch small{font-size:10px}
+.space-panel p,.space-panel button,.space-dragpad{font-size:12px}.space-toggle{font-size:12px}.space-toggle small{font-size:10px}
+.wb-top h2{font-size:28px;line-height:1.35}.wb-top>div>p:not(.wb-kicker){font-size:14px;line-height:1.75}.wb-kicker{font-size:10px}
+.wb-mode button{font-size:13px;min-height:40px}.wb-mode p{font-size:12px;line-height:1.7}.wb-nav button{font-size:13px;min-height:46px}.wb-nav button>span{font-size:11px}.wb-template-tag{font-size:12px;line-height:1.75}
+.wb-stats span{font-size:12px;line-height:1.65}.wb-page-head h3{font-size:27px}.wb-page-head>p,.wb-small{font-size:13px;line-height:1.8}
+.wb-dialog .wb-field{font-size:12px;line-height:1.7}.wb-field input,.wb-field textarea,.wb-field select{font-size:14px;line-height:1.7;min-height:44px}
+.wb-map-card>b{font-size:19px}.wb-map-card p{font-size:14px;line-height:1.8}.wb-map-card small{font-size:11px;line-height:1.7}
+.wb-subhead,.wb-section-line>h4,.wb-finance>h4{font-size:17px}.wb-gates>h4,.wb-stake>h4,.wb-add-task h4{font-size:15px}.wb-gate>b{font-size:13px;line-height:1.75}
+.wb-task-choice b{font-size:15px;line-height:1.65}.wb-task-choice small,.wb-review{font-size:12px;line-height:1.8}.wb-task-badge{font-size:10px}
+.wb-dialog .button,.wb-quiet{font-size:12px}.wb-money span,.wb-formula{font-size:12px;line-height:1.75}.wb-money strong{font-size:25px}.wb-summary-tags span{font-size:12px}.wb-memo-label>textarea{font-size:14px;line-height:1.85}
+.wb-filebar button{font-size:11px;min-height:36px}.wb-filebar p{font-size:11px;line-height:1.75}#wb-status{font-size:12px}.wb-return{font-size:11px}
+.form-field{font-size:12px}.privacy-note,.brief-dialog .intro{font-size:12px;line-height:1.8}
+@media(min-width:1200px){.header .nav a{font-size:13px}}
+@media(max-width:800px){.hero-copy>p,.section-head>p,.cap-panel>p,.audience-summary>p,.method-copy>p,.contact-content>p{font-size:15px;line-height:1.85}.has-spatial-background .nav a{font-size:14px}.wb-top h2{font-size:25px}.wb-mode p{font-size:11px}.wb-page-head>p,.wb-small{font-size:12px}.wb-task-choice b{font-size:14px}.wb-filebar p{font-size:11px}}
+@media(max-width:480px){.hero-copy>p,.section-head>p,.cap-panel>p,.audience-summary>p,.method-copy>p,.contact-content>p{font-size:14px;line-height:1.85}.deliverables li,.engagement p,.lens p,.lead .bio,.advisor .bio,.cadence-step p{font-size:13px;line-height:1.8}.eyebrow,.section-label{font-size:10px}.text-link{font-size:12px}.button{font-size:12px}.proof-strip p{font-size:12px}.proof-strip span{font-size:12px}.independence p,.audience-buyers{font-size:12px}.lead .role,.advisor .role{font-size:11px}.space-branch{font-size:11px}.space-branch small{font-size:9px}.space-workbench-nav p{font-size:13px}.space-workbench-nav p b{font-size:17px}.space-toggle{font-size:11px}.space-toggle small{font-size:9px}.wb-embedded .wb-top h2{font-size:23px}.wb-top>div>p:not(.wb-kicker){font-size:13px}.wb-kicker{font-size:9px}.wb-mode button{font-size:12px;min-height:42px}.wb-nav button{font-size:12px;min-height:44px}.wb-nav button>span{font-size:10px}.wb-stats span{font-size:11px}.wb-page-head h3{font-size:24px}.wb-dialog .wb-field{font-size:12px}.wb-field input,.wb-field textarea,.wb-field select,.wb-memo-label>textarea{font-size:16px;line-height:1.65;min-height:44px}.wb-map-card>b{font-size:18px}.wb-map-card p{font-size:13px}.wb-map-card small{font-size:11px}.wb-task-choice b{font-size:14px}.wb-task-choice small,.wb-review,.wb-small{font-size:12px;line-height:1.8}.wb-task-badge{font-size:10px}.wb-money span,.wb-formula{font-size:11px}.wb-money strong{font-size:24px}.wb-filebar button{font-size:11px;min-height:40px;padding:7px 10px}.wb-filebar p{font-size:11px}.wb-dialog .button,.wb-quiet{font-size:12px}.wb-summary-tags span{font-size:11px}.privacy-note,.brief-dialog .intro{font-size:11px;line-height:1.8}}
+@media print{.hero-copy>p,.section-head>p,.cap-panel>p,.audience-summary>p,.method-copy>p,.contact-content>p{font-size:11px}.wb-field input,.wb-field textarea,.wb-field select,.wb-memo-label>textarea{font-size:11px;min-height:0}.wb-dialog .wb-field,.wb-small,.wb-task-choice small,.wb-filebar p{font-size:10px}}
+@media(pointer:coarse){.wb-field input,.wb-field textarea,.wb-field select,.wb-memo-label>textarea{font-size:16px}}
+
+/* Demo progress stays inside the existing brief dialog. */
+.brief-demo-steps{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px;list-style:none;padding:0;margin:0 0 23px;font-size:11px;line-height:1.6;color:#76657d}
+.brief-demo-steps li{padding:9px 5px;border-top:2px solid #d8c9d7}.brief-demo-steps li[aria-current="step"]{color:#880a25;border-color:#a9274a;font-weight:650}
+.brief-demo-done{padding:18px;margin-top:22px;border:1px solid #9dbbb0;border-left:3px solid #397b69;border-radius:5px;background:#edf5f0;color:#254c40}.brief-demo-done h3{font-size:16px;margin-bottom:8px}.brief-demo-done p{font-size:13px;line-height:1.85}
+.brief-dialog .button:disabled{opacity:.5;cursor:default}.brief-dialog [data-demo-sample]{min-height:44px}.brief-dialog .dialog-close{width:44px;height:44px}.brief-dialog .intro,.brief-dialog .privacy-note{font-size:12px;line-height:1.85}.brief-dialog input,.brief-dialog select,.brief-dialog textarea{font-size:14px}.brief-dialog .brief-result textarea{line-height:1.8}
+@media(max-width:480px){.brief-demo-steps{font-size:10px;gap:6px}.brief-demo-steps li{padding-inline:2px}.brief-dialog input,.brief-dialog select,.brief-dialog textarea{font-size:16px}.brief-dialog .form-actions{gap:10px}.brief-dialog .button{min-height:44px}.brief-demo-done{padding:15px}}
