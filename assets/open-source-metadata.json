@@ -1,0 +1,313 @@
+{
+  "checked_at": "2026-11-04T05:00:09.047Z",
+  "source": "GitHub public repository API",
+  "scope": "Repository metadata only; no source code or security review",
+  "repositories": [
+    {
+      "repo": "activepieces/activepieces",
+      "status": 200,
+      "archived": false,
+      "stars": 25364,
+      "forks": 4428,
+      "language": "TypeScript",
+      "default_branch": "main",
+      "pushed_at": "2026-11-04T04:57:49Z",
+      "license": {
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null
+      },
+      "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
+      "url": "https://github.com/activepieces/activepieces"
+    },
+    {
+      "repo": "docling-project/docling",
+      "status": 200,
+      "archived": false,
+      "stars": 70081,
+      "forks": 5253,
+      "language": "Python",
+      "default_branch": "main",
+      "pushed_at": "2026-11-03T17:22:40Z",
+      "license": {
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit"
+      },
+      "description": "Get your documents ready for gen AI",
+      "url": "https://github.com/docling-project/docling"
+    },
+    {
+      "repo": "openfga/openfga",
+      "status": 200,
+      "archived": false,
+      "stars": 6085,
+      "forks": 553,
+      "language": "Go",
+      "default_branch": "main",
+      "pushed_at": "2026-11-03T10:57:25Z",
+      "license": {
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0"
+      },
+      "description": "A high-performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar.",
+      "url": "https://github.com/openfga/openfga"
+    },
+    {
+      "repo": "zoharbabin/due-diligence-agents",
+      "status": 200,
+      "archived": false,
+      "stars": 134,
+      "forks": 30,
+      "language": "Python",
+      "default_branch": "main",
+      "pushed_at": "2026-09-29T04:56:19Z",
+      "license": {
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0"
+      },
+      "description": "Legal flags a risk. Finance flags another. We connect and cite. Open-source forensic M&A due diligence: 13 AI agents read your data room across 9 domains (Legal, Finance, Commercial, Tech, Cyber, HR, Tax, Regulatory, ESG), cross-reference findings no single reviewer connects, and trace every one to an exact page & quote.",
+      "url": "https://github.com/zoharbabin/due-diligence-agents"
+    },
+    {
+      "repo": "keycloak/keycloak",
+      "status": 200,
+      "archived": false,
+      "stars": 37689,
+      "forks": 9139,
+      "language": "Java",
+      "default_branch": "main",
+      "pushed_at": "2026-11-04T04:39:44Z",
+      "license": {
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0"
+      },
+      "description": "Open Source Identity and Access Management For Modern Applications and Services",
+      "url": "https://github.com/keycloak/keycloak"
+    },
+    {
+      "repo": "langfuse/langfuse",
+      "status": 200,
+      "archived": false,
+      "stars": 36970,
+      "forks": 4150,
+      "language": "TypeScript",
+      "default_branch": "main",
+      "pushed_at": "2026-11-04T03:27:01Z",
+      "license": {
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null
+      },
+      "description": "🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+      "url": "https://github.com/langfuse/langfuse"
+    },
+    {
+      "repo": "Open-Cap-Table-Coalition/Open-Cap-Format-OCF",
+      "status": 200,
+      "archived": false,
+      "stars": 194,
+      "forks": 46,
+      "language": "TypeScript",
+      "default_branch": "main",
+      "pushed_at": "2026-10-26T12:05:39Z",
+      "license": {
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null
+      },
+      "description": "Open Cap Format (OCF) - The Open Source Company Capitalization Data Standard. OCF can be used to structure and track the complex data structures necessary to build and maintain accurate capitalization (cap) tables.",
+      "url": "https://github.com/Open-Cap-Table-Coalition/Open-Cap-Format-OCF"
+    },
+    {
+      "repo": "papermark/papermark",
+      "status": 200,
+      "archived": false,
+      "stars": 9288,
+      "forks": 1416,
+      "language": "TypeScript",
+      "default_branch": "main",
+      "pushed_at": "2026-08-28T15:58:25Z",
+      "license": {
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null
+      },
+      "description": "Papermark is the open-source DocSend alternative  and secure data rooms with built-in analytics and custom domains.",
+      "url": "https://github.com/papermark/papermark"
+    },
+    {
+      "repo": "twentyhq/twenty",
+      "status": 200,
+      "archived": false,
+      "stars": 60395,
+      "forks": 9942,
+      "language": "TypeScript",
+      "default_branch": "main",
+      "pushed_at": "2026-11-04T04:23:15Z",
+      "license": {
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null
+      },
+      "description": "The open alternative to Salesforce, designed for AI.",
+      "url": "https://github.com/twentyhq/twenty"
+    },
+    {
+      "repo": "lalalune/outreachr",
+      "status": 200,
+      "archived": false,
+      "stars": 289,
+      "forks": 42,
+      "language": "TypeScript",
+      "default_branch": "main",
+      "pushed_at": "2026-10-29T18:27:19Z",
+      "license": {
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0"
+      },
+      "description": "Local-first, open-source investor fundraising CRM for founders",
+      "url": "https://github.com/lalalune/outreachr"
+    },
+    {
+      "repo": "documenso/documenso",
+      "status": 200,
+      "archived": false,
+      "stars": 15646,
+      "forks": 3438,
+      "language": "TypeScript",
+      "default_branch": "main",
+      "pushed_at": "2026-11-04T04:06:18Z",
+      "license": {
+        "name": "GNU Affero General Public License v3.0",
+        "spdx_id": "AGPL-3.0",
+        "url": "https://api.github.com/licenses/agpl-3.0"
+      },
+      "description": "The Open Source DocuSign Alternative.",
+      "url": "https://github.com/documenso/documenso"
+    },
+    {
+      "repo": "docusealco/docuseal",
+      "status": 200,
+      "archived": false,
+      "stars": 18989,
+      "forks": 1938,
+      "language": "Ruby",
+      "default_branch": "master",
+      "pushed_at": "2026-11-02T13:00:51Z",
+      "license": {
+        "name": "GNU Affero General Public License v3.0",
+        "spdx_id": "AGPL-3.0",
+        "url": "https://api.github.com/licenses/agpl-3.0"
+      },
+      "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
+      "url": "https://github.com/docusealco/docuseal"
+    },
+    {
+      "repo": "formbricks/formbricks",
+      "status": 200,
+      "archived": false,
+      "stars": 13213,
+      "forks": 2611,
+      "language": "TypeScript",
+      "default_branch": "main",
+      "pushed_at": "2026-11-04T04:27:52Z",
+      "license": {
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null
+      },
+      "description": "Open Source Qualtrics Alternative",
+      "url": "https://github.com/formbricks/formbricks"
+    },
+    {
+      "repo": "frappe/crm",
+      "status": 200,
+      "archived": false,
+      "stars": 3905,
+      "forks": 1573,
+      "language": "Vue",
+      "default_branch": "develop",
+      "pushed_at": "2026-11-03T21:20:59Z",
+      "license": {
+        "name": "GNU Affero General Public License v3.0",
+        "spdx_id": "AGPL-3.0",
+        "url": "https://api.github.com/licenses/agpl-3.0"
+      },
+      "description": "Fully featured, open source CRM",
+      "url": "https://github.com/frappe/crm"
+    },
+    {
+      "repo": "zain/capy",
+      "status": 200,
+      "archived": false,
+      "stars": 2,
+      "forks": 0,
+      "language": "TypeScript",
+      "default_branch": "main",
+      "pushed_at": "2026-11-01T12:25:54Z",
+      "license": {
+        "name": "GNU Affero General Public License v3.0",
+        "spdx_id": "AGPL-3.0",
+        "url": "https://api.github.com/licenses/agpl-3.0"
+      },
+      "description": "Open-source cap table management for founders. Import from Pulley, manage equity, and take your data with you.",
+      "url": "https://github.com/zain/capy"
+    },
+    {
+      "repo": "clawnify/OpenDealflow",
+      "status": 200,
+      "archived": false,
+      "stars": 6,
+      "forks": 2,
+      "language": "TypeScript",
+      "default_branch": "main",
+      "pushed_at": "2026-10-21T04:49:40Z",
+      "license": {
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit"
+      },
+      "description": "Open-source Affinity alternative: dealflow CRM for VCs and angels — pipeline, warm-intro relationship graph, agent-ready API",
+      "url": "https://github.com/clawnify/OpenDealflow"
+    },
+    {
+      "repo": "Open-Cap-Stack/opencap",
+      "status": 200,
+      "archived": false,
+      "stars": 25,
+      "forks": 5,
+      "language": "JavaScript",
+      "default_branch": "main",
+      "pushed_at": "2026-10-26T00:54:49Z",
+      "license": {
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0"
+      },
+      "description": "Open-source cap table & equity management platform — free Carta alternative for startups",
+      "url": "https://github.com/Open-Cap-Stack/opencap"
+    },
+    {
+      "repo": "FlowiseAI/Flowise",
+      "status": 200,
+      "archived": true,
+      "stars": 55547,
+      "forks": 25082,
+      "language": "TypeScript",
+      "default_branch": "main",
+      "pushed_at": "2026-08-13T12:38:19Z",
+      "license": {
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null
+      },
+      "description": "Build AI Agents, Visually",
+      "url": "https://github.com/FlowiseAI/Flowise"
+    }
+  ]
+}
