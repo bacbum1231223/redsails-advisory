@@ -17,7 +17,9 @@ Luồng tiếp nhận là bản mô phỏng; dữ liệu nhập được xử l�
 - Radar: https://bacbum1231223.github.io/redsails-advisory/?platform=radar#workbench
 - Báo cáo độc lập: `latest.html` và `latest.json`.
 - 18 repository được chia thành 13 nhóm chức năng. Điểm sàng lọc gốc được giữ riêng với metadata GitHub cập nhật.
-- Các demo chạy bằng logic riêng trong trình duyệt; các runtime OCR, CRM, SSO, quyền, ký điện tử và AI bên ngoài chưa được kết nối.
+- Bộ demo trên trình duyệt được giữ riêng. Chọn “Đăng nhập & kết nối máy chủ” để dùng dữ liệu thật trong không gian riêng qua backend Sites RedSails.
+- Backend lưu dữ liệu D1, tệp riêng R2, xác thực ChatGPT, phân quyền thành viên, lịch sử máy chủ và kiểm tra phiên bản khi ghi. Cửa sổ kết nối cần mở khi dùng công cụ trên GitHub Pages; có thể mở cùng giao diện tại origin máy chủ.
+- Chưa kết nối OCR/AI hoặc nhà cung cấp ký điện tử. Các dự án trong Radar vẫn là công nghệ tham chiếu, không phải 18 runtime đã cài.
 - Bản nháp mở rộng dùng khóa `redsails-open-platform/v1`, độc lập với bản nháp mapping cũ.
 
 Chạy bộ quét thủ công với Python 3.10 trở lên, không cần cài thêm thư viện:
